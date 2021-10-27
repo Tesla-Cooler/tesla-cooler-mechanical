@@ -1,6 +1,6 @@
 # Tesla Cooler Mechanical
 
-![Assembled Single Cooler](./photo.jpg)
+![Assembled Single Cooler](./photo.JPG)
 
 See: [esologic.com/tesla-cooler](https://www.esologic.com/tesla-cooler/)
 
